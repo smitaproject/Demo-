@@ -1,4 +1,4 @@
 # Demo-
 my first git hub project
 <br>
-author-smita lokhande
+author-smita (demo)
